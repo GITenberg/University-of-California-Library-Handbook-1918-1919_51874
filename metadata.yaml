@@ -1,0 +1,22 @@
+_repo: University-of-California-Library-Handbook-1918-1919_51874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: University of California (1868-1952). Library
+    gutenberg_agent_id: '46584'
+    url: http://www.gutenberg.org/2009/agents/46584
+description: ''
+gutenberg_issued: '2016-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of California (1868-1952). Library -- Handbooks, manuals, etc.'
+- !lcc 'Z'
+- GITenberg
+title: University of California Library Handbook 1918-1919
+url: http://www.gutenberg.org/ebooks/51874
