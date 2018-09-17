@@ -1,11 +1,16 @@
 _repo: University-of-California-Library-Handbook-1918-1919_51874
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51874-h/images/cover.jpg
 creator:
   author:
     agent_name: University of California (1868-1952). Library
     gutenberg_agent_id: '46584'
     url: http://www.gutenberg.org/2009/agents/46584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51874#University-of-California-Library-Handbook-1918-1919
 gutenberg_issued: '2016-04-27'
 gutenberg_type: Text
 identifiers:
